@@ -8,6 +8,9 @@ class HeaderComponent extends Component {
                     <nav>
                         <div>
                             <h2>page title(임시값)</h2>
+                            <div>
+                                <p>add_test</p>
+                            </div>
                         </div>
                     </nav>
                 </header>
